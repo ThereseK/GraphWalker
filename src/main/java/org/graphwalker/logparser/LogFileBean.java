@@ -1,10 +1,10 @@
-package org.graphwalker;
+package org.graphwalker.logparser;
 
 /**
- * Class to use for classnames and methodnames. For example when creating Arraylists.
- * 
+ * Class to use for classnames and methodnames.
+ *
  * @author theresek
- * 
+ *
  */
 public class LogFileBean {
 
